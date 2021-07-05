@@ -18,9 +18,9 @@
 
 04 Factory Method | [Blog](https://blog.naver.com/hy2je0ng/222315913150)
 
-05 Singleton [Blog](https://blog.naver.com/hy2je0ng/222316100792)
+05 Singleton | [Blog](https://blog.naver.com/hy2je0ng/222316100792)
 
-06 Prototype [Blog](https://blog.naver.com/hy2je0ng/222316134739)
+06 Prototype | [Blog](https://blog.naver.com/hy2je0ng/222316134739)
 
 07 Bridge | [Blog](https://blog.naver.com/hy2je0ng/222316888857)
 
