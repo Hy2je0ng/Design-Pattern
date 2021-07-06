@@ -1,4 +1,4 @@
-package sample;
+package iterator_A1;
 
 public interface Iterator {
 	public abstract boolean hasNext();

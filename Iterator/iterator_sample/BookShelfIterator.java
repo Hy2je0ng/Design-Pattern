@@ -1,4 +1,4 @@
-package sample;
+package iterator_sample;
 
 public class BookShelfIterator implements Iterator {
 	private BookShelf bookShelf;
