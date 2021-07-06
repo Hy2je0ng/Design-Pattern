@@ -1,4 +1,4 @@
-package iterator_sample;
+package iterator_Sample;
 
 public class Book {
 	private String name;
