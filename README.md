@@ -10,7 +10,7 @@
 
 # 📑 Contents
 
-01 Iterator | [Blog](https://blog.naver.com/hy2je0ng/222314960221)
+01 [Iterator](./Iterator) | [Blog](https://blog.naver.com/hy2je0ng/222314960221)
 
 02 Adapter Pattern | [Blog](https://blog.naver.com/hy2je0ng/222315437944)
 
