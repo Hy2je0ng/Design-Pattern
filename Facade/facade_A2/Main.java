@@ -1,0 +1,9 @@
+package facade_A2;
+
+import facade_A2.pagemaker.PageMaker;
+
+public class Main {
+	public static void main(String[] args) {
+		PageMaker.makeLinkPage("linkpage.html");
+	}
+}
